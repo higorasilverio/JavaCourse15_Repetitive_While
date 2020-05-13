@@ -8,9 +8,6 @@ public class Main {
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("*** Password check: 2002 ***");
-		System.out.println();
-		
 		boolean access = false;
 			
 		while (access == false) {
